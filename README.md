@@ -52,6 +52,9 @@ This section focuses on building and exposing RESTful API endpoints using Spring
 
 ## About Me
 **DUGGIRALA BHAGYA VIVEKINI**
+
 Java Full Stack Engineer (FSE) Trainee @ Cognizant DN-4.0
+
 Email: [2200040307ece@gmail.com]
+
 Passionate about backend development, Java logic building, and real-world software engineering practices. Thank you Cognizant & team for this valuable opportunity!
